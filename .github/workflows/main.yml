@@ -1,4 +1,4 @@
-name: deploy rockelNord
+name: deploy SAnAntonio
 
 on:
   push:
